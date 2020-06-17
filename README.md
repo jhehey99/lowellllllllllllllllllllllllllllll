@@ -138,8 +138,9 @@ $ DBConnection - Successfully connected to the database
 - convert the value to to string
 - then emit to websocket
 
-# Check the sensor value first if you are reading something
+# Check for sensor input data
 
+- Check the sensor value first if you are reading something
 - Use serial print or something
 
 ---
