@@ -2,6 +2,11 @@ READ ME
 
 - nasa pinaka baba yung hardware setup
 
+# Directory Structure
+
+- root-nodemcu/ - contains files for nodemcu
+- thesis-web-app/ - contains files for node.js server and web app
+
 ---
 
 DEFAULT SETUP FOR SERVER
@@ -45,6 +50,7 @@ DEFAULT SETUP FOR SERVER
 
 # Install dependencies
 
+\$ cd thesis-web-app
 \$ npm install
 
 # Start server
@@ -53,8 +59,8 @@ DEFAULT SETUP FOR SERVER
 
 # After Starting the server make sure the console prints out, to know its ok
 
-$ DataSocket - ECG socket connected
-$ DBConnection - Successfully connected to the database
+-> DataSocket - ECG socket connected
+-> DBConnection - Successfully connected to the database
 
 # View the web app
 
