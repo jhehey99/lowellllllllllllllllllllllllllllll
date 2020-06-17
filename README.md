@@ -89,7 +89,7 @@ $ DBConnection - Successfully connected to the database
 - You will see in the console
 
 - > DeviceSocket - verify - socketId: {id}
-  > OR
+- OR
 - > DeviceSocket - verify - Device at {id} was verified
 
 # Determine if nodemcu DISCONNECTED
