@@ -9,7 +9,7 @@ READ ME
 
 ---
 
-DEFAULT SETUP FOR SERVER
+# Default Setup for Server
 
 - Database is disabled
 - Database Name is lowellDB
@@ -46,7 +46,7 @@ DEFAULT SETUP FOR SERVER
 
 ---
 
-# SERVER SETUP
+# Server Setup
 
 # Install dependencies
 
@@ -119,7 +119,7 @@ DEFAULT SETUP FOR SERVER
 
 ---
 
-# HARDWARE SETUP
+# Hardware Setup
 
 # Change wifi ssid and pass
 
